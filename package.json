@@ -26,30 +26,14 @@
     "{N}"
   ],
   "author": {
-    "name": "Jonathan Casarrubias",
-    "email": "jcasarrubias@mean.expert",
-    "url": "http://mean.expert"
+    "name": "Pradeep Sharma",
+    "email": "pradeep@sprytechies.com",
+    "url": "http://sprytechies.com"
   },
-  "contributors": [
-    {
-      "name": "João Ribeiro",
-      "email": "jonnybgod@gmail.com",
-      "url": "http://jonnybgod.ghost.io"
-    },
-    {
-      "name": "Nikolay Matiushenkov",
-      "email": "mnvxxx@gmail.com",
-      "url": "https://github.com/mnvx"
-    },
-    {
-      "name": "Sylvain Dumont",
-      "email": "sylvain.dumont35@gmail.com",
-      "url": "https://www.weboaks.com"
-    }
-  ],
+  "contributors": [],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jonathan-casarrubias/loopback-sdk-builder/issues"
+    "url": "https://github.com/sprypradeep/loopback-sdk-builder/issues"
   },
   "dependencies": {
     "ejs": "^1.0",
